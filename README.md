@@ -5,5 +5,4 @@ Package:
 - tkinter : sudo apt install python3-tk
 - pandas : pip3 install pandas
 - beautifulsoup4: pip3 install beautifulsoup4
-
-<file name>.csv
+- file_name.csv
