@@ -8,3 +8,5 @@ Package:
 - beautifulsoup4: pip3 install beautifulsoup4
 - lxml : pip3 install lxml
 - file_name.csv
+
+- Example : https://www.ebay.com/b/Apple-iPhone-11/9355/bn_7116334163
